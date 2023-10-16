@@ -1,5 +1,5 @@
 # webMovie
-fuction
+fuction:
 -Authentication and Authorization (admin,user).
 +username: admin , pass:admin@123 or username:user , pass:admin@123 (role admin).
 +user: you can register.
